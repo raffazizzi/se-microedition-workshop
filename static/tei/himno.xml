@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -20,16 +20,16 @@
       <body>
          <lg>
             <head>I</head>
-             <l>Oíd, mortales, el grito sagrado:</l>
-             <l>¡Libertad, libertad, libertad!</l>
-             <l>Oíd el ruido de rotas cadenas,</l>
-             <l>Ved en trono a la noble igualdad.</l>
-             <l>Se levanta a la faz de la Tierra</l>
-             <l>una nueva y gloriosa Nación,</l>
-             <l>coronada su sien de laureles,</l>
-             <l>y a sus plantas rendido un león.</l> 
-             <l>coronada su sien de laureles,</l>
-             <l>y a sus plantas rendido un león.</l>
+            <l>Oíd, mortales, el grito sagrado:</l>
+            <l>¡Libertad, libertad, libertad!</l>
+            <l>Oíd el ruido de rotas cadenas,</l>
+            <l>Ved en trono a la noble igualdad.</l>
+            <l>Se levanta a la faz de la Tierra</l>
+            <l>una nueva y gloriosa Nación,</l>
+            <l>coronada su sien de laureles,</l>
+            <l>y a sus plantas rendido un león.</l> 
+            <l>coronada su sien de laureles,</l>
+            <l>y a sus plantas rendido un león.</l>
          </lg>
          
          <lg>
