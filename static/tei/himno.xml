@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <lg>
+            <head>I</head>
+             <l>Oíd, mortales, el grito sagrado:</l>
+             <l>¡Libertad, libertad, libertad!</l>
+             <l>Oíd el ruido de rotas cadenas,</l>
+             <l>Ved en trono a la noble igualdad.</l>
+             <l>Se levanta a la faz de la Tierra</l>
+             <l>una nueva y gloriosa Nación,</l>
+             <l>coronada su sien de laureles,</l>
+             <l>y a sus plantas rendido un león.</l> 
+             <l>coronada su sien de laureles,</l>
+             <l>y a sus plantas rendido un león.</l>
+         </lg>
+         
+         <lg>
+            <head>Coro:</head>
+            <l>Sean eternos los laureles,</l>
+            <l>que supimos conseguir </l>
+            <l>Coronados de gloria vivamos</l>
+            <l>¡o juremos con gloria morir!</l>
+            <l>¡o juremos con gloria morir! </l>
+         </lg>
+         
+         <lg>
+            <head>II</head>
+            <l>De los nuevos campeones los rostros</l>
+            <l>Marte mismo parece animar</l>
+            <l>la grandeza se anida en sus pechos:</l>
+            <l>a su marcha todo hacen temblar.</l>
+            <l>Se conmueven del Inca las tumbas,</l>
+            <l>y en sus huesos revive el ardor,</l>
+            <l>lo que va renovando a sus hijos</l>
+            <l>de la Patria el antiguo esplendor,</l> 
+            <l>lo que va renovando a sus hijos</l>
+            <l>de la Patria el antiguo esplendor.</l>
+         </lg>
+         
+         <!--Coro-->
+         
+         <lg>
+            <head>III</head>
+            <l>Pero sierras y muros se sienten</l>
+            <l>retumbar con horrible fragor:</l>
+            <l>todo el país se conturba por gritos</l>
+            <l>de venganza, de guerra y furor.</l>
+            <l>En los fieros tiranos la envidia</l>
+            <l>escupió su pestífera hiel;</l>
+            <l>su estandarte sangriento levantan</l>
+            <l>provocando a la lid más cruel,</l> 
+            <l>su estandarte sangriento levantan</l>
+            <l>provocando a la lid más cruel.</l>
+         </lg> 
+         
+         <!--Coro
+         
+         IV
+         ¿No los véis sobre México y Quito
+         arrojarse con saña tenaz
+         y cuál lloran, bañados en sangre,
+         Potosí, Cochabamba y La Paz?
+         ¿No los véis sobre el triste Caracas
+         luto y llantos y muerte esparcir?
+         ¿No los véis devorando cual fieras
+         todo pueblo que logran rendir? 
+         ¿No los véis devorando cual fieras
+         todo pueblo que logran rendir? </lg>
+         
+         Coro
+         
+         V
+         A vosotros se atreve, argentinos,
+         el orgullo del vil invasor;
+         vuestros campos ya pisa contando
+         tantas glorias hollar vencedor.
+         Mas los bravos, que unidos juraron
+         su feliz libertad sostener,
+         a estos tigres sedientos de sangre
+         fuertes pechos sabrán oponer, 
+         a estos tigres sedientos de sangre
+         fuertes pechos sabrán oponer. 
+         
+         Coro
+         
+         VI
+         El valiente argentino a las armas
+         corre ardiendo con brío y valor,
+         el clarín de la guerra, cual trueno,
+         en los campos del Sud resonó.
+         Buenos Ayres se opone a la frente
+         de los pueblos de la ínclita unión,
+         y con brazos robustos desgarran
+         al ibérico altivo león, 
+         y con brazos robustos desgarran
+         al ibérico altivo león. 
+         
+         Coro
+         
+         VII
+         San José, San Lorenzo, Suipacha,
+         ambas Piedras, Salta y Tucumán,
+         La Colonia y las mismas murallas
+         del tirano en la Banda Oriental.
+         Son letreros eternos que dicen:
+         aquí el brazo argentino triunfó,
+         aquí el fiero opresor de la Patria
+         su cerviz orgullosa dobló, 
+         aquí el fiero opresor de la Patria
+         su cerviz orgullosa dobló. 
+         
+         Coro
+         
+         VIII
+         La victoria al guerrero argentino
+         con sus alas brillante cubrió,
+         y azorado a su vista el tirano
+         con infamia a la fuga se dio.
+         Sus banderas, sus armas se rinden
+         por trofeos a la libertad,
+         y sobre alas de gloria alza el pueblo
+         trono digno a su gran majestad, 
+         y sobre alas de gloria alza el pueblo
+         trono digno a su gran majestad. 
+         
+         Coro
+         
+         IX
+         Desde un polo hasta el otro resuena
+         de la fama el sonoro clarín,
+         y de América el nombre enseñando
+         les repite: "¡Mortales, oíd!:
+         ya su trono dignísimo abrieron
+         las Provincias Unidas del Sud".
+         Y los libres del mundo responden:
+         "Al gran pueblo argentino, ¡salud!" 
+         Y los libres del mundo responden:
+         "Al gran pueblo argentino, ¡salud!" 
+         
+         Coro-->
+      </body>
+  </text>
+</TEI>
